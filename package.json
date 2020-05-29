@@ -1,0 +1,38 @@
+{
+  "name": "nonsense-license",
+  "version": "1.0.0",
+  "description": "Exports All Popular The Licenses With Description,Limitations,Permissions,Conditions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deep5050/nonsense.git"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "license",
+    "licenses",
+    "license-generator",
+    "license-chooser",
+    "choose-license",
+    "choosealicense",
+    "github-license",
+    "license-maker",
+    "LICENSE",
+    "make-license"
+  ],
+  "author": "",
+  "license": "unlicense",
+  "bugs": {
+    "url": "https://github.com/deep5050/nonsense/issues"
+  },
+  "homepage": "https://github.com/deep5050/nonsense#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "yamljs": "^0.3.0"
+  }
+}
