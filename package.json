@@ -1,7 +1,7 @@
 {
   "name": "nonsense-license",
-  "version": "1.0.1",
-  "description": "Exports All Popular The Licenses With Description,Limitations,Permissions,Conditions.",
+  "version": "1.0.2",
+  "description": "Exports All The Popular Licenses With Descriptions, Limitations, Permissions And Conditions",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
