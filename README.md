@@ -7,7 +7,7 @@
 
 
 
-<a href="https://www.npmjs.com/package/autobadge"><img alt="npm" src="https://img.shields.io/npm/dt/nonsense-license?color=red&label=INSTALL&logo=npm&style=for-the-badge"></a>
+<a href="https://www.npmjs.com/package/nonsense-license"><img alt="npm" src="https://img.shields.io/npm/dt/nonsense-license?color=red&label=INSTALL&logo=npm&style=for-the-badge"></a>
 <h3>
 Exports All The Popular Licenses With Description,Limitations,Permissions,Conditions.</h3>
 </div>
