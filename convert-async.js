@@ -57,8 +57,10 @@ const write = async (obj) => {
         } catch (error) {
             reject(error);
         }
-        fs.writeFileSync('output/' + name + '.json', data);
-        resolve();
+        fs.writeFile('output/' + name + '.json', data, () => {
+            resolve();
+        });
+
     });
 };
 
