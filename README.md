@@ -1,6 +1,6 @@
-<div align=cente>
 
-<img src="https://i.imgur.com/BURSfAS.png" title="nonsense" height="300px"  width="400px" />
+
+<img src="https://i.imgur.com/BURSfAS.png" title="nonsense" height="400px"  width="600px" />
 
 # nonsense-license
 
@@ -54,5 +54,3 @@ To Get All The Licenses In JSON Format, Visit My [GitHub Repo](https://github.co
 
 4. [autopy-lot](https://github.com/deep5050/autopy-lot)
 
-
-</div>
