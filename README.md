@@ -1,6 +1,6 @@
 <div align=cente>
 
-<img src="https://i.imgur.com/BURSfAS.png" title="nonsense" />
+<img src="https://i.imgur.com/BURSfAS.png" title="nonsense" height="300px"  width="400px" />
 
 # nonsense-license
 
@@ -12,7 +12,8 @@
 <a href="https://www.npmjs.com/package/nonsense-license"><img alt="npm" src="https://img.shields.io/npm/dt/nonsense-license?color=red&label=INSTALL&logo=npm&style=for-the-badge"></a>
 <h3>
 Exports All The Popular Licenses With Description,Limitations,Permissions And Conditions</h3>
-</div>
+
+
 
 ## Example 
 
@@ -53,3 +54,5 @@ To Get All The Licenses In JSON Format, Visit My [GitHub Repo](https://github.co
 
 4. [autopy-lot](https://github.com/deep5050/autopy-lot)
 
+
+</div>
