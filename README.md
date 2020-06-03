@@ -1,15 +1,13 @@
-<div align=center>
-
-# nonsense-license
-
-<h2> Nonsense But Helpful </h2>
-<a href="https://github.com/deep5050/nonsense/actions?query=workflow%3Anpm-publish"><img src="https://img.shields.io/github/workflow/status/deep5050/nonsense/npm-publish?label=npm-publish&logo=github&style=for-the-badge"></a>
+<p align="center"><a href="https://github.com/deep5050/nonsense"><img src="https://i.imgur.com/Ru9Shm6.png" title="nonsense" /></a></p>
+<p align="center" ><h1 align="center" >NONSENSE-LICENSE</h1></p>
+<p align="center"> <h2> Nonsense But Helpful </h2> </p>
+<p align="center" ><a href="https://github.com/deep5050/nonsense/actions?query=workflow%3Anpm-publish"><img src="https://img.shields.io/github/workflow/status/deep5050/nonsense/npm-publish?label=npm-publish&logo=github&style=for-the-badge"></a></p>
 
 
 
-<a href="https://www.npmjs.com/package/nonsense-license"><img alt="npm" src="https://img.shields.io/npm/dt/nonsense-license?color=red&label=INSTALL&logo=npm&style=for-the-badge"></a>
-<h3>
-Exports All The Popular Licenses With Description,Limitations,Permissions And Conditions</h3>
+<p align="center"> <a href="https://www.npmjs.com/package/nonsense-license"><img alt="npm" src="https://img.shields.io/npm/dt/nonsense-license?color=red&label=INSTALL&logo=npm&style=for-the-badge"></a></p>
+
+<p align="center"> <h4 align="center" >Exports All The Popular Licenses With Description,Limitations,Permissions And Conditions</h4></p>
 
 
 
@@ -33,7 +31,7 @@ Exports All The Popular Licenses With Description,Limitations,Permissions And Co
 ```
 
 ## Install
-simply run `npm install nonsense-license` and add `const license = require('nonsense-license);` To Your Workfile. :)
+Simply run `npm install nonsense-license` And Add `const license = require('nonsense-license);` To Your Workfile. :)
 
 ## Warning
 1. Don't Forget To Replace The Place Holders In many Licenses.
@@ -52,4 +50,4 @@ To Get All The Licenses In JSON Format, Visit My [GitHub Repo](https://github.co
 
 4. [autopy-lot](https://github.com/deep5050/autopy-lot)
 
-<div>
+
