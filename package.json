@@ -1,6 +1,6 @@
 {
   "name": "nonsense-license",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Exports All The Popular Licenses With Descriptions, Limitations, Permissions And Conditions",
   "main": "index.js",
   "scripts": {
