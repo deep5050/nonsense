@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/deep5050/nonsense"><img src="https://i.imgur.com/Ru9Shm6.png" title="nonsense" /></a></p>
 <p align="center" ><h1 align="center" >NONSENSE-LICENSE</h1></p>
-<p align="center"> <h2> Nonsense But Helpful </h2> </p>
+<p align="center">  Nonsense But Helpful  </p>
 <p align="center" ><a href="https://github.com/deep5050/nonsense/actions?query=workflow%3Anpm-publish"><img src="https://img.shields.io/github/workflow/status/deep5050/nonsense/npm-publish?label=npm-publish&logo=github&style=for-the-badge"></a></p>
 
 
