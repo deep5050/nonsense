@@ -10,7 +10,6 @@
 <p align="center"> <h4 align="center" >Exports All The Popular Licenses With Description,Limitations,Permissions And Conditions</h4></p>
 
 
-
 ## Example 
 
 
@@ -29,6 +28,46 @@
 }
 
 ```
+## Licenses
+1. - [x] 0BSD
+2. - [x] AFL-3.0
+3. - [x] AGPL-3.0
+4. - [x] Apache-2.0
+5. - [x] Artistic-2.0
+6. - [x] BSD-2-Clause
+7. - [x] BSD-3-Clause-Clear
+8. - [x] BSD-3-Clause
+9. - [x] BSD-4-Clause
+10. - [x] BSL-1.0
+11. - [x] CC-BY-4.0
+12. - [x] CC-BY-SA-4.0
+13. - [x] CC0-1.0
+14. - [x] CECILL-2.1
+15. - [x] ECL-2.0
+16. - [x] EPL-1.0
+17. - [x] EPL-2.0
+18. - [x] EUPL-1.1
+19. - [x] EUPL-1.2
+20. - [x] GPL-2.0
+21. - [x] GPL-3.0
+22. - [x] ISC
+23. - [x] LGPL-2.1
+24. - [x] LGPL-3.0
+25. - [x] LPPL-1.3c
+26. - [x] MIT
+27. - [x] MPL-2.0
+28. - [x] MS-PL
+29. - [x] MS-RL
+30. - [x] NCSA
+31. - [x] ODbL-1.0
+32. - [x] OFL-1.1
+33. - [x] OSL-3.0
+34. - [x] PostgreSQL
+35. - [x] Unlicense
+36. - [x] UPL-1.0
+37. - [x] Vim
+38. - [x] WTFPL
+39. - [x] Zlib
 
 ## Install
 Simply run `npm install nonsense-license` And Add `const license = require('nonsense-license);` To Your Workfile. :)
@@ -50,4 +89,8 @@ To Get All The Licenses In JSON Format, Visit My [GitHub Repo](https://github.co
 
 4. [autopy-lot](https://github.com/deep5050/autopy-lot)
 
+## Thanks 
+1. Icons made by <a href="https://www.flaticon.com/authors/those-icons" title="Those Icons">Those Icons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+
+2. [blob maker](https://blobmaker.app)
 
