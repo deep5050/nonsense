@@ -1,0 +1,39 @@
+---
+title: Nostr
+spdx-id: nostr
+
+description: Privacy and Information Permanence
+
+how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.  Replace [year] with the current year and [fullname] with the name (or names) of the copyright holders. You may take the additional step of removing the copyright notice.
+
+using:
+  - deep5050_nonsense: https://github.com/deep5050/nonsense/blob/master/_licenses/copying.md
+  - amethyst_nostr: https://github.com/vitorpamplona/amethyst/blob/master/README.md
+
+permissions:
+  - commercial-use
+  - distribution
+  - modifications
+  - private-use
+
+conditions:
+  - disclaimer
+
+limitations:
+  - liability
+  - warranty
+  - disclaimer
+
+---
+
+Relays know your IP address, your name, your location (guessed from IP), your pub key, all your contacts, and other relays, and can read every action you do (post, like, boost, quote, report, etc) except for Private Zaps and Private DMs.
+
+While the content of direct messages (DMs) is only visible to you and your DM counterparty, everyone can see when you and your counterparty DM each other.
+
+If you want to improve your privacy, consider utilizing a service that masks your IP address (e.g. a VPN or Tor) from trackers online.
+
+The relay also learns which public keys you are requesting, meaning your public key will be tied to your IP address.
+
+There is no way to guarantee the deletion of any content once posted.
+
+Information shared on Nostr can be re-broadcasted to other servers and should be assumed permanent for privacy purposes.
