@@ -307,6 +307,17 @@ module.exports = {
         "limitations": ["liability", "warranty"],
         "text": ["", "", "University of Illinois/NCSA Open Source License", "", "Copyright (c) [year] [fullname]. All rights reserved.", "", "Developed by: [project]", "              [fullname]", "              [projecturl]", "", "Permission is hereby granted, free of charge, to any person", "obtaining a copy of this software and associated documentation files", "(the \"Software\"), to deal with the Software without restriction,", "including without limitation the rights to use, copy, modify, merge,", "publish, distribute, sublicense, and/or sell copies of the Software,", "and to permit persons to whom the Software is furnished to do so,", "subject to the following conditions:", "", "* Redistributions of source code must retain the above copyright notice,", "  this list of conditions and the following disclaimers.", "", "* Redistributions in binary form must reproduce the above copyright", "  notice, this list of conditions and the following disclaimers in the", "  documentation and/or other materials provided with the distribution.", "", "* Neither the names of [fullname], [project] nor the names of its", "  contributors may be used to endorse or promote products derived from", "  this Software without specific prior written permission.", "", "THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS", "OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,", "FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE", "CONTRIBUTORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER", "LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,", "OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS WITH", "THE SOFTWARE."]
     },
+    "NOSTR": {
+        "title": "NOSTR",
+        "spdx-id": "NOSTR",
+        "nickname": "Nostr",
+        "description": "Privacy and Information Permanence",
+        "how": "Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. Replace [year] with the current year and [fullname] with the name (or names) of the copyright holders. Replace [project] with the project organization, if any, that sponsors this work.",
+        "permissions": ["commercial-use", "modifications", "distribution", "private-use"],
+        "conditions": ["disclaimer"],
+        "limitations": ["liability", "warranty", "disclaimer"],
+        "text": ["","","Relays know your IP address, your name, your location (guessed from IP), your pub key, all your contacts, and other relays, and can read every action you do (post, like, boost, quote, report, etc) except for Private Zaps and Private DMs.","","While the content of direct messages (DMs) is only visible to you and your DM counterparty, everyone can see when you and your counterparty DM each other.","","If you want to improve your privacy, consider utilizing a service that masks your IP address (e.g. a VPN or Tor) from trackers online.","","The relay also learns which public keys you are requesting, meaning your public key will be tied to your IP address.","","There is no way to guarantee the deletion of any content once posted.","","Information shared on Nostr can be re-broadcasted to other servers and should be assumed permanent for privacy purposes."],
+    },
     "ODbL-1.0": {
         "title": "ODC Open Database License v1.0",
         "spdx-id": "ODbL-1.0",
