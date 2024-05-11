@@ -61,6 +61,7 @@
 28. - [x] MS-PL
 29. - [x] MS-RL
 30. - [x] NCSA
+31. - [x] Nostr 
 31. - [x] ODbL-1.0
 32. - [x] OFL-1.1
 33. - [x] OSL-3.0
